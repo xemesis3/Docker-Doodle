@@ -1,1 +1,20 @@
+Gitlab CI/CD
+Deploying a web application
 
+Tools:
+Gitlab ,Github ,Terraform ,Docker , AWS. 
+
+Task:
+1) Create a docker image
+2) Push the image onto DockerHub
+3) Go to GitLab --> Start writing pipeline code
+4) Write IaC Code Terraform --> push onto Github
+5) write the Docker compose file --> Push onto Github repo
+6) Connect aws to gitlab --> use gitlab runner/ aws?
+7) Test the pipeline code
+8) Deploy.
+
+Etc.
+
+Try deploying this onto a local docker container.
+no terraform,no aws
